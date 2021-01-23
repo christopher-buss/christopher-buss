@@ -10,7 +10,7 @@ Currently looking for a **one-year** placement starting **Summer 2021**.
  💕 &nbsp;I love video games, constantly aiming to be competitive in any I play.\
   🎓&nbsp; I am currently studying an MSci in Computer Science (Software Engineering) at Royal Holloway, University of London.\
    💻&nbsp; Interested in creating compelling and fun experiences in Unreal Engine, using my knowledge of C++ and Blueprints.\
-   🎹&nbsp;In my free time, I enjoy playing games and learning the Piano.\
+   🎹&nbsp; In my free time, I enjoy playing games and learning the Piano.\
    📝&nbsp; Checkout my portfolio [here](https://christopher-buss.github.io/) for more details about me. (Coming Soon!)\
    📧&nbsp; Any other questions? Feel free to shoot me an email. I'll respond as quick as I can! 
    
