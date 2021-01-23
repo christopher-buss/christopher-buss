@@ -11,8 +11,8 @@ Currently looking for a **one-year** placement starting **Summer 2021**.
   🎓&nbsp; I am currently studying an MSci in Computer Science (Software Engineering) at Royal Holloway, University of London.\
    💻&nbsp; Interested in creating compelling and fun experiences in Unreal Engine, using my knowledge of C++ and Blueprints.\
    🎹&nbsp;In my free time, I enjoy playing games and learning the Piano.\
-   📝&nbsp; Checkout my CV here for more details about me. 
-   📧&nbsp; Any other questions? Feel free to shoot me an email. I'll respond as quick as I can! \ 
+   📝&nbsp; Checkout my portfolio [here](https://christopher-buss.github.io/) for more details about me. (Coming Soon!)\
+   📧&nbsp; Any other questions? Feel free to shoot me an email. I'll respond as quick as I can! 
    
 ### 🛠 &nbsp;Technical Knowledge
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua&logoColor=)&nbsp;
