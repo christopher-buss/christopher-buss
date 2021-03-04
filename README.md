@@ -2,7 +2,7 @@
 A future Software Engineer in the Games industry.
 
 *"It is not enough for code to work."* - Robert C.Martin. 
-I'm an advocate for clean code, and the use of good software engineering practices such as automated testing and behaviour-driven development.
+I'm an advocate for clean code, and the use of good software engineering practices such as object-oriented programming, automated testing and behaviour-driven development.
 
 Currently looking for a **one-year** placement starting **Summer 2021**.
 
