@@ -5,16 +5,16 @@ A Software Engineer in the Games industry.
 I'm an advocate for clean code, a huge proponent for the use of entity-component systems, as well as the use of good software engineering practices such as object-oriented programming, automated testing and behaviour-driven development.
 
 ### 🎮 &nbsp;About Me
-   💕 &nbsp; I love video games, constantly aiming to be competitive in any I play.\
+   💕&nbsp; I love video games, constantly aiming to be competitive in any I play.\
    🎓&nbsp; Graduated with a 1st class honours in Computer Science (Software Engineering) at Royal Holloway, University of London.\
    💻&nbsp; Interested in creating compelling and fun games using either Unreal Engine, using my knowledge of C++ and Blueprints.\
-   🛠️&nbsp; Extensive experience using both luau and roblox-ts (a typescript to lua compiler) to create multiplayer experiences.\
-   🎹&nbsp; In my free time, I enjoy playing games and learning the Piano.\
+   🛠️&nbsp; Extensive experience using both Luau and roblox-ts (a TypeScript-to-Luau compiler) to create multiplayer experiences.\
+   🎹&nbsp; In my free time, I enjoy playing games, keeping fit, and learning the Piano.\
    📧&nbsp; Any other questions? Feel free to shoot me an email. I'll respond as quick as I can!
    <!-- 📝&nbsp; Checkout my portfolio [here](https://christopher-buss.github.io/) for more details about me. (Coming Soon!)\ --->
    
 ### 🛠 &nbsp;Technical Knowledge
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua&logoColor=)&nbsp;![Roblox-TS](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua&logoColor=)&nbsp;![roblox-ts](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
 
 ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-05122A?style=flat&logo=unreal-engine)&nbsp;![Rider](https://img.shields.io/badge/-Rider-05122A?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOhSURBVEhLvZdNSFRRFMfPe29sRgedhig35SJJQqGo8ANbRRQmJEi0CFQqWre0RRKRtphaBYKLPihzI7VRBFGEaBGTltDC3CSGRBhBoDOWjfNmbufcjzf3je+Nk0l/OJxz77szv3vO/Zg3sJWmI11sqauRyeaOyZDeUwSVIew9/Rky64Evh8ZfVckul4I9aRybKU31hX7LroLyBOvAnBhEm75CNmWhBS7WxsdfygccamVs2IW2cq+8YDJKpvSOvKEkA5htAsvgR7LGi7lj5/m4iu4kK19Pwm606K8EH1mMnNkh0EZniZa/Kuq+Q3YDs05bcPbUY8wyLcx2fGb62ZGAHO4rnrHMcksoKfFxH8+6/WQ/RNcTwjDTqMwYfVHfY/iVtnF1UEb/LM8137TG/0sEprX1FGNsk9l2bvjw8PCm57FYTD4tLNNg0CTjomRZFgf4qbu72/V8OtLJvJbTbEgMzsrYV4ZhOOYl/fnExATvq66u5l6J4PoEPNaYgWFlZfz3amlp4X5hYYH7/L0lJtC5LMAmwgJZMIM2WKXCdOlrSPLLvFjht3zgYCuURhhaSEBNjHURqLm5mcdDQ0Pc+2lmZoZ7Verl8j3c62pafX5OgMtkpugJmp8xKR6Pc9/R0cG9Lr0i9fX1vG9xcZH7ZLCMe0cMGsgJcKl9iTJWUC8wSZVYldxLAwMDrqVIBsPwtqpOtvBiSgy+I++MmG9sZWDhWtN64+Y6/HpSPvk3xY4/gLRpwZlPM3QbOjxnV5s8U7nWPhlvRwksdSIUhska93XhgBWwUKm3oyRCqdxL0UrZI6SBFVSs9U6JoByOdqF9qkd254MJusMZY6mFhbHs4V7Z7Sr1LQVVYP2Y5FuxUqUmW8MJnLg6z7e4A97/6H2vypqMRMfCz4oVba5kiDYYGp9A2Rz1O2CSgO5wqWXGawSVMdxm7qn/uFPD6BwDnmNxntW5xj4T+6itnXV+x8v2T1YGrVNjeGYDkLYCYOPPp4odw7bNY8v907Fy/yBzAOpL8wDUJp+7bBhcfvME5tZqwcaLQoeQ5yDZz9CTUn0l7oyT/QcQrCBiAjrA6XPaDI6OzeZgBFJZIoSgGTQlAsrQ+0VsfbDyGkIe6leoAumfCLStGlXXl0cQ1JYrqwUZjHEHylF0OuDKxt2Sp7LJ5QnWZY9G6K1g0ziCypAreDP1DWfmvp7w1R+zLOp111cbI5FynARLj0ZuyC5P4d+ZrPgfVUgAfwCtUc0hQ80Y4gAAAABJRU5ErkJggg==)&nbsp;![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
