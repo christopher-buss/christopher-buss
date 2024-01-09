@@ -11,7 +11,7 @@ I'm an advocate for clean code, a huge proponent for the use of entity-component
    🛠️&nbsp; Extensive experience using both Luau and roblox-ts (a TypeScript-to-Luau compiler) to create multiplayer experiences.\
    🎹&nbsp; In my free time, I enjoy playing games, keeping fit, and learning the Piano.\
    📧&nbsp; Any other questions? Feel free to shoot me an email. I'll respond as quick as I can!\
-   📝&nbsp; Checkout my portfolio [here](https:/christopher-buss.gitbook.io/portfolio/) for more details about me.
+   📝&nbsp; Checkout my portfolio [here](https:/www.christopher-buss.gitbook.io/portfolio/) for more details about me.
    
 ### 🛠 &nbsp;Technical Knowledge
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua&logoColor=)&nbsp;![roblox-ts](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
