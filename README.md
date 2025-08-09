@@ -35,7 +35,6 @@ about me
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)\
 ![roblox-ts](https://img.shields.io/badge/-roblox--ts-05122A?style=flat&logo=typescript)
 ![Flamework](https://img.shields.io/badge/-Flamework-05122A?style=flat&logo=fireship)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)
 ![ESLint](https://img.shields.io/badge/-ESLint-05122A?style=flat&logo=eslint)\
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
